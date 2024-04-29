@@ -6,8 +6,8 @@ The goal is to equip leadership with a comprehensive understanding of the curren
 
 
 ## Data Source
-
 Dataset: [Download Here]( https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654128941410/Online%20Retail.xlsx)
+
 
 ## Tools: 
 - Excel
@@ -16,8 +16,8 @@ Dataset: [Download Here]( https://cdn.theforage.com/vinternships/companyassets/i
 
 
 ### Presentation script
-Strategic Insights for Expansion
-                     – Analysing Key Trends and Opportunities
+                                                                             Strategic Insights for Expansion
+                                                                           – Analysing Key Trends and Opportunities
                                    
 Good morning. Today, I'm excited to present the insights derived from my data analysis, focused on strategic expansion and optimising our market approach. Let's dive into the specifics of how we can use these insights for effective decision-making.
 
@@ -26,8 +26,10 @@ Initially, I began with the data cleanup process to ensure the accuracy and reli
 
 Visual Presentation Overview:
 I've utilised Power BI to create detailed visuals for each query you raised. This tool's robust capabilities allow us to explore data dynamically and extract meaningful patterns and trends.
+
 Question 1: Analysing Monthly Revenue Trends
 The line chart used here illustrates seasonal variations and helps us understand monthly performance nuances. Additionally, I've included interactive elements like a country slicer and quantity trends chart, enhancing our ability to dissect the data further and uncover underlying drivers.
+Screenshot of the report ![image](https://github.com/Suifengyuan78/Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/167149285/35fab6c3-e259-4d67-8252-f859384c5adf)
 
 Question 2: Revenue and Quantity by Top 10 Countries
 A clustered column chart highlights the top 10 revenue-generating countries, excluding the UK to focus on other key markets. The integration of a date slicer enriches this visual, allowing us to adjust the timeframe for deeper trend analysis and better strategic planning.
